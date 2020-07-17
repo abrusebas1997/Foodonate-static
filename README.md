@@ -10,7 +10,7 @@ Then, we deliver to shelters for people in need.
 ### Live Demo
 [Foodonate static site](https://foodonate.org)
 
-##Blog Post
+## Blog Post
 [Medium blog post](https://medium.com/@sebastian.abarca/food-wasted-in-san-francisco-79c9666d4e45)
 
 ## Built With
