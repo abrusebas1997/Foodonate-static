@@ -9,8 +9,8 @@ Then, we deliver to shelters for people in need.
 
 
 ### Live Demo
-[Foodonate static site](https://foodonate.org)
-[Foodonate back end](https://foodonate-org.herokuapp.com/)
+*[Foodonate static site](https://foodonate.org)
+*[Foodonate back end](https://foodonate-org.herokuapp.com/)
 
 
 ## Walk through
