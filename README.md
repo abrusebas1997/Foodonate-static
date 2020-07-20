@@ -12,6 +12,10 @@ Then, we deliver to shelters for people in need.
 * [Foodonate static site](https://foodonate.org)
 * [Foodonate back end](https://foodonate-org.herokuapp.com/)
 
+### Repos
+* [Static website repo](https://github.com/abrusebas1997/Foodonate-static)
+* [Back end repo](https://github.com/abrusebas1997/realreal)
+
 
 ## Walk through
 You can either sign up as a foodriver(volunteer) or foodonator(food business). As a foodonator, you have the option to request a pick up and as a foodriver to take those pick ups
